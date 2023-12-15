@@ -54,12 +54,5 @@
   <img style="height: 10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolamson2811&hide=HTML,CSS,blade&theme=vue-dark&hide_border=true&border_radius=15&layout=compact&size_weight=0.5&count_weight=0.5" />
 </div>
 
-<br/>
 
-<div align="center" style="width: 100%">
-  <h3>My Contributions</h3>
-<!--   <img style="width: 45rem" alt="snake eating my contributions" src="https://raw.githubusercontent.com/hieuunm/hieuunm/output/snake.svg" /> -->
-  <img style="width: 44rem" src="https://github-readme-activity-graph.vercel.app/graph?username=tolamson2811&theme=vue&radius=20&hide_border=true&height=350" />
-</div>
-<br/>
 
