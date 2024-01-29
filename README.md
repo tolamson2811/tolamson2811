@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tô Lâm Sơn</h1>
+<h3 align="center">I'm a Back-end Developer with a view to become a Fullstack Developer in the future.</h3>
 
 # 💫 About Me
 🔭 Currently I am studying at the **University of Engineering and Technology, VNU.** <br>
